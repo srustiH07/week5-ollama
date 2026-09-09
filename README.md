@@ -21,3 +21,6 @@ This repository contains the complete Week 5 internship work.
 - `day5-local-qa-bot/` - Day 5 local QA bot implementation
 
 Each day contains its original completed internship work.
+## Consolidation Note
+
+This repository consolidates the completed Week 5 internship tasks into a single structured repository while preserving the original work for each day.
